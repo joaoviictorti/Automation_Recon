@@ -1,0 +1,5 @@
+python3 /home/victor/Recon/subdominios/subdominio.py -v -d businesscorp.com.br
+python3 /home/victor/Recon/subdominios/subdominio.py -f assetfinder -d businesscorp.com.br
+python3 /home/victor/Recon/subdominios/subdominio.py -f subfinder -d businesscorp.com.br
+python3 /home/victor/Recon/subdominios/subdominio.py -httpx -d businesscorp.com.br
+python3 /home/victor/Recon/subdominios/subdominio.py -enviar -d businesscorp.com.br

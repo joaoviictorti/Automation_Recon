@@ -1,0 +1,5 @@
+python3 /home/victor/Recon/portscan/nmap.py businesscorp.com.br 37.59.174.225
+python3 /home/victor/Recon/portscan/nmap.py businesscorp.com.br 37.59.174.229
+python3 /home/victor/Recon/portscan/nmap.py businesscorp.com.br 185.199.108.153
+python3 /home/victor/Recon/portscan/nmap.py businesscorp.com.br 37.59.174.227
+python3 /home/victor/Recon/portscan/nmap.py businesscorp.com.br 37.59.174.228
